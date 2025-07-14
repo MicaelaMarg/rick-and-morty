@@ -1,24 +1,16 @@
-# rick-and-morty
+# Rick and Morty Vue App
 
-## Project setup
-```
-npm install
-```
+App web desarrollada con Vue.js que consume la API pública de Rick and Morty para mostrar personajes en tiempo real. Incluye filtros por estado y diseño responsive con SCSS. 🛸
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Tecnologías usadas
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Vue 3
+- Vuex para manejo de estado
+- SCSS para estilos
+- API pública de Rick and Morty
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Cómo instalar y correr el proyecto
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Cloná el repo  
+```bash
+git clone https://github.com/MicaelaMarg/rick-and-morty.git
