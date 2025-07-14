@@ -8,6 +8,8 @@ App web desarrollada con Vue.js que consume la API pública de Rick and Morty pa
 - Vuex para manejo de estado
 - SCSS para estilos
 - API pública de Rick and Morty
+- ![Rick and Morty](src/assets/rick_and_morty.png)
+
 
 ## Cómo instalar y correr el proyecto
 
