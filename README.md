@@ -1,4 +1,6 @@
 # Rick and Morty Vue App
+Demo online: 🚀 [rick-and-morty-matt.netlify.app](https://rick-and-morty-matt.netlify.app/)
+
 
 App web desarrollada con Vue.js que consume la API pública de Rick and Morty para mostrar personajes en tiempo real. Incluye filtros por estado y diseño responsive con SCSS. 🛸
 
